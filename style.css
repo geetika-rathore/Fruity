@@ -1,0 +1,24 @@
+.col-sm-4 .px-sm-4 .pb-5 img{
+    width: 30px;
+    height: 30px;
+}
+
+.slider-image {
+    background-image: cover;
+}
+
+@media (max-width: 1028px) {
+    .slider-image {
+        background-image: cover;
+    }
+}
+
+/* .row .align-items-center .justify-content-between .mb-5 .pt-5 .mb-lg-3 .text-center{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+} */
+#drop{
+    z-index: auto;
+}
